@@ -21,3 +21,37 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+finish/system/target/m2e-wtp/web-resources/META-INF/maven/io.openliberty.guides/system/pom.xml
+finish/system/target/m2e-wtp/web-resources/META-INF/maven/io.openliberty.guides/system/pom.properties
+*.MF
+finish/system/target/classes/META-INF/microprofile-config.properties
+*.html
+*.prefs
+finish/.DS_Store
+finish/.project
+finish/inventory/.classpath
+finish/inventory/.project
+finish/inventory/.settings/.jsdtscope
+*.component
+finish/inventory/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml
+finish/inventory/.settings/org.eclipse.wst.common.project.facet.core.xml
+*.container
+*.name
+finish/inventory/bin/.project
+finish/inventory/bin/Dockerfile
+finish/inventory/bin/pom.xml
+finish/inventory/bin/src/main/liberty/config/server.xml
+finish/inventory/bin/src/main/webapp/WEB-INF/web.xml
+.DS_Store
+finish/system/.classpath
+finish/system/.project
+finish/system/.settings/.jsdtscope
+finish/system/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml
+finish/system/.settings/org.eclipse.wst.common.project.facet.core.xml
+finish/models/target/classes/META-INF/maven/io.openliberty.guides/models/pom.xml
+finish/models/target/classes/META-INF/maven/io.openliberty.guides/models/pom.properties
+finish/models/.settings/org.eclipse.wst.common.project.facet.core.xml
+finish/models/.project
+finish/models/.classpath
+finish/inventory/target/m2e-wtp/web-resources/META-INF/maven/io.openliberty.guides/inventory/pom.xml
+finish/inventory/target/m2e-wtp/web-resources/META-INF/maven/io.openliberty.guides/inventory/pom.properties
